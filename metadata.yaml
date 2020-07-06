@@ -1,5 +1,8 @@
 _repo: The-Three-Voyages-of-Captain-Cook-Round-the-World-Vol-VI-Being-the-Second-of-the-Third-Voyage_62507
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62507-h/images/cover.jpg
 creator:
   author:
     agent_name: Cook, James
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2644
     wikipedia: https://en.wikipedia.org/wiki/James_Cook
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62507#The-Three-Voyages-of-Captain-Cook-Round-the-World-Vol-VI-Being-the-Second-of-the-Third-Voyage
 gutenberg_issued: '2020-06-28'
 gutenberg_type: Text
 identifiers:
